@@ -19,7 +19,7 @@ $ whoami
 > Cybersecurity Enthusiast | Ethical Hacker in Training
 
 $ cat about.txt
-> 🌍 Location     : [Your City, Country]
+> 🌍 Location     : [Newyork, USA]
 > 🎓 Learning     : Cybersecurity, Networking, Ethical Hacking
 > 🔭 Currently    : Building beginner security tools & projects
 > 🌱 Studying     : Python, Linux, Networking, OWASP Top 10
@@ -86,10 +86,10 @@ $ cat about.txt
 
 ## 🏆 Certifications & Learning Path
 
-- [ ] 📘 **CompTIA Security+** — *In Progress*
+- [ ] 📘 **CompTIA Security+** — Nov 24, 2027
 - [ ] 🔐 **TryHackMe — Pre-Security Path** — *In Progress*
-- [ ] 🖥️ **Google Cybersecurity Certificate** — *Planned*
-- [ ] 💀 **eJPT (eLearnSecurity Junior PT)** — *Planned*
+- [ ] 🖥️ **Google Cybersecurity Certificate** 
+- [ ] 💀 **eJPT (eLearnSecurity Junior PT)** 
 - [ ] 🎯 **OSCP** — *Long Term Goal*
 
 ---
@@ -110,10 +110,10 @@ $ cat about.txt
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethi-pakala-925245187/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pakalapreethi9@gmail.com)
 
 </div>
 
